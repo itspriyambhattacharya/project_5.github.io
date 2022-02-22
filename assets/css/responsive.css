@@ -1,0 +1,78 @@
+@media only screen and (min-width:320px) and (max-width:328px){
+    .searchbox-selfcss{
+        width: 69% !important;
+    }
+    .form-selfcss{
+        flex-wrap: nowrap; 
+    }
+}
+@media only screen and (min-width:329px) and (max-width:387px){
+    .searchbox-selfcss{
+        width: 70% !important;
+    }
+    .form-selfcss{
+        flex-wrap: nowrap; 
+    }
+}
+@media only screen and (min-width:388px) and (max-width:476px){
+    .searchbox-selfcss{
+        width: 75% !important;
+    }
+    .form-selfcss{
+        flex-wrap: nowrap; 
+    }
+}
+@media only screen and (min-width:477px) and  (max-width:499px){
+    .searchbox-selfcss{
+        width: 80% !important;
+    }
+    .form-selfcss{
+        flex-wrap: nowrap;
+    }
+}
+@media only screen and (min-width:500px) and (max-width:524px){
+    .searchbox-selfcss{
+        width: 81% !important;
+    }
+    .form-selfcss{
+        flex-wrap: nowrap;
+    }
+}
+@media only screen and (max-width:576px){
+    .owl-nav{
+        position: static;
+        margin-top: 15px !important; 
+    }
+    /* .btn-view{
+        margin-left: auto;
+    } */
+    .trending-head{
+        display: flex !important;
+        justify-content: space-between !important;
+    }
+}
+@media only screen and (max-width: 992px){
+    .navbar-brand{
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin-right: 0;
+    }
+    .form-selfcss{
+        width: 100% !important;
+        justify-content: center;
+    }
+    .resp-center{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .text-selfcss{
+        text-align: center;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1038px){
+    .custom-navbar{
+        gap: 8px;
+    }
+}
